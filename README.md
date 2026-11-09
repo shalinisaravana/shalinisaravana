@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi there, I'm Shalini S! 👋
 
-<!--
-**shalinisaravana/shalinisaravana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### First-Year CSE Student | Aspiring Software Developer | Creative Thinker
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a first-year Computer Science and Engineering student at St. Joseph's College of Engineering, passionate about technology, creativity and exploring new possibilities in software development.
+
+I enjoy learning how applications are designed and developed, exploring innovative ideas and working with people to turn concepts into meaningful solutions.
+
+[LinkedIn](https://www.linkedin.com/in/shalini-saravana-4954b8441/) | [GitHub](https://github.com/shalinisaravana) | [Email](mailto:shalinisaravana1972@gmail.com)
+
+---
+
+## 📖 About Me
+
+- 🎓 Pursuing B.E. in Computer Science and Engineering at St. Joseph's College of Engineering.
+- 💻 Currently learning C programming and Python.
+- 🚀 Interested in software development, AI/ML, web development and app development.
+- ☁️ Exploring cloud computing and emerging technologies.
+- 💡 Interested in entrepreneurship, startups and transforming ideas into practical solutions.
+- 🤝 Strong communication, teamwork and leadership skills.
+- 🎨 Enjoy combining creativity and technology through design and development.
+
+## 🛠️ Tech Stack & Tools
+
+| Category | Skills & Tools |
+|---|---|
+| Programming Languages | C, Python |
+| Design Tools | Canva, Figma |
+| Development Environment | Visual Studio Code |
+| Areas of Interest | AI/ML, Software Development, Web Development, App Development, Cloud Computing |
+
+## 🚀 Experience & Interests
+
+- Gained exposure to startup project development and the process of building applications.
+- Participated in app designing and development.
+- Interested in understanding how technology can solve real-world problems.
+- Enjoy brainstorming ideas, collaborating with teams and exploring creative solutions.
+
+## 🗺️ Career Roadmap
+
+- 🟩 **Current:** Pursuing first-year Computer Science and Engineering.
+- 🔵 **In Progress:** Strengthening programming fundamentals in C and Python.
+- 🎯 **Next Goal:** Explore AI/ML, web development, app development and cloud technologies through practical projects.
+- 🚀 **Long-Term Goal:** Develop strong technical skills and build innovative software solutions while exploring different career opportunities in technology.
+
+## 🌟 Beyond Coding
+
+Outside academics, I enjoy:
+
+- 🎨 Designing and creative activities
+- 🎵 Music and dance
+- 📚 Reading
+- 📸 Photography
+- 💡 Exploring new technologies
+- 🎤 Organising events and collaborating with people
+
+## 📬 Let's Connect!
+
+I'm always interested in learning, sharing ideas and collaborating with others.
+
+- LinkedIn: https://www.linkedin.com/in/shalini-saravana-4954b8441/
+- Email: shalinisaravana1972@gmail.com
+
+**Thanks for visiting my profile! Let's learn, create and grow together.** ✨
