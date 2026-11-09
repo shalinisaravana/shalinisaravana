@@ -63,4 +63,20 @@ I'm always interested in learning, sharing ideas and collaborating with others.
 - LinkedIn: https://www.linkedin.com/in/shalini-saravana-4954b8441/
 - Email: shalinisaravana1972@gmail.com
 
-**Thanks for visiting my profile! Let's learn, create and grow together.** ✨
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shalinisaravana&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shalinisaravana&layout=compact&theme=default)
+
+## 💻 Languages & Tools
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
